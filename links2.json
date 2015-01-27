@@ -47,5 +47,11 @@
     "url": "https://6to5.org/docs/using-6to5/",
     "title": "Using 6to5 · 6to5",
     "created_at": "2015-01-27T07:26:03.783Z"
+  },
+  {
+    "id": "d0682b55a22ebedfb25821c6b655cdfac0d10f70",
+    "url": "https://github.com/hughsk/vinyl-source-stream",
+    "title": "hughsk/vinyl-source-stream",
+    "created_at": "2015-01-27T17:12:09.420Z"
   }
 ]
