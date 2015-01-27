@@ -41,5 +41,11 @@
     "url": "https://6to5.org/",
     "title": "6to5 · Turn ES6+ code into readable vanilla ES5",
     "created_at": "2015-01-27T06:21:14.655Z"
+  },
+  {
+    "id": "2dd3cb863403bcddc20f3f46eb19334881595f8c",
+    "url": "https://6to5.org/docs/using-6to5/",
+    "title": "Using 6to5 · 6to5",
+    "created_at": "2015-01-27T07:26:03.783Z"
   }
 ]
