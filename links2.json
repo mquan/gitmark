@@ -1,11 +1,5 @@
 [
   {
-    "id": "28183378efa5fcea6451cf41671a6386a946afd9",
-    "url": "http://tom.preston-werner.com/2009/05/19/the-git-parable.html",
-    "title": "The Git Parable",
-    "created_at": "2015-01-23T06:06:14.319Z"
-  },
-  {
     "id": "44df8bdb51a76972b66deb94dfdf5783de99a64e",
     "url": "http://wildlyinaccurate.com/a-hackers-guide-to-git/",
     "title": "A Hacker's Guide to Git | Wildly Inaccurate",
@@ -29,11 +23,5 @@
     "url": "http://world.openfoodfacts.org/",
     "title": "Open Food Facts - World",
     "created_at": "2015-01-24T19:54:16.333Z"
-  },
-  {
-    "id": "fbc382fec154bdaa529afde0b3cbaae9073bf778",
-    "url": "http://docs.telapi.com/v2/docs/carrier-lookup",
-    "title": "Carrier Lookup · TelAPI",
-    "created_at": "2015-01-26T16:42:41.661Z"
   }
 ]
